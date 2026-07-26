@@ -1,0 +1,101 @@
+Feedback_ID,Intern_Name,Department,Mentor,Feedback,Rating,Source,Date
+1,Waleed Ali,Web Development,Ayesha Ahmed,I really enjoyed working on real world projects here.,4,Email,2026-05-01
+2,Rabia Ali,Machine Learning,Mehak Abbasi,This internship gave me a great foundation for my career.,4,LinkedIn,2026-05-03
+3,Junaid Sheikh,Web Development,Rizwan Khan,The internship was neither good nor bad.,3,Google Form,2026-05-04
+4,Zara Noor,Web Development,Mehak Abbasi,There was a lack of proper onboarding process.,1,Survey,2026-05-04
+5,Amna Javed,Web Development,Ayesha Abbasi,The mentors were extremely supportive throughout the internship.,4,Survey,2026-05-06
+6,Noor Ali,UI/UX,Sara Rana,I expected a bit more but it was acceptable.,3,LinkedIn,2026-05-06
+7,Nida Noor,Data Analytics,Iqra Abbasi,Overall this was a fantastic and enriching experience.,5,LinkedIn,2026-05-06
+8,Sara Rana,UI/UX,Danish Baig,This internship was a turning point in my career journey.,4,Email,2026-05-08
+9,Amna Siddiqui,Data Analytics,Ayesha Abbasi,The company culture made me feel welcome from day one.,4,LinkedIn,2026-05-08
+10,Zain Baig,Data Analytics,Sara Rana,I appreciated the flexibility and support from the team.,4,LinkedIn,2026-05-10
+11,Waqas Abbasi,Machine Learning,Ayesha Abbasi,The feedback sessions were extremely helpful for my growth.,4,Survey,2026-05-10
+12,Shahzaib Iqbal,Machine Learning,Usman Khan,I loved the hands on approach to teaching new concepts.,4,Social Media,2026-05-11
+13,Waleed Chaudhry,Web Development,Rabia Awan,The internship did not match the job description at all.,2,LinkedIn,2026-05-11
+14,Usman Awan,Machine Learning,Ayesha Abbasi,The internship pushed me to think creatively and independently.,4,Social Media,2026-05-11
+15,Waleed Farooq,Machine Learning,Mehak Abbasi,The internship was amazing and I learned a lot.,5,Survey,2026-05-12
+16,Imran Iqbal,Content Writing,Rizwan Baig,I am proud of the progress I made during this program.,4,LinkedIn,2026-05-15
+17,Noor Chaudhry,Content Writing,Rizwan Khan,Some sessions were useful while others were not.,3,Survey,2026-05-15
+18,Adeel Khan,Digital Marketing,Asad Noor,The internship helped me build a strong professional network.,5,Survey,2026-05-15
+19,Faizan Siddiqui,Data Analytics,Ayesha Abbasi,I struggled without adequate technical support.,1,Google Form,2026-05-17
+20,Talha Rana,Web Development,Ayesha Ahmed,The internship covered basic concepts adequately.,3,Social Media,2026-05-17
+21,Zara Noor,Web Development,Ayesha Abbasi,It was an average learning experience.,3,Email,2026-05-17
+22,Hira Siddiqui,Content Writing,Danish Baig,This internship exceeded my expectations completely.,5,Email,2026-05-19
+23,Faizan Ali,Web Development,Rabia Awan,Nothing special happened during this internship.,3,Social Media,2026-05-20
+24,Imran Rana,Digital Marketing,Usman Khan,Tasks were manageable throughout the program.,3,Survey,2026-05-20
+25,Rizwan Hussain,Web Development,Sara Rana,The internship felt disorganized from the start.,1,Google Form,2026-05-20
+26,Waleed Rana,Content Writing,Rizwan Khan,I learned a few new things during this internship.,3,LinkedIn,2026-05-21
+27,Faizan Raza,Machine Learning,Sara Rana,The program was fine but not outstanding.,3,Survey,2026-05-23
+28,Ayesha Ahmed,Content Writing,Ayesha Ahmed,The program lacked structure and clear goals.,1,Email,2026-05-24
+29,Asad Abbasi,Content Writing,Anum Baig,I built strong technical skills that will help me long term.,5,Google Form,2026-05-25
+30,Mehak Chaudhry,Data Analytics,Rizwan Khan,The tasks were routine and predictable.,3,Google Form,2026-05-26
+31,Hamza Iqbal,Web Development,Sara Rana,The internship met my basic expectations.,3,LinkedIn,2026-05-27
+32,Anum Hussain,Digital Marketing,Danish Baig,The tasks assigned were unclear most of the time.,2,Survey,2026-05-27
+33,Anum Awan,Digital Marketing,Noor Javed,I got great exposure to real client requirements.,5,LinkedIn,2026-05-27
+34,Mehak Abbasi,Machine Learning,Bilal Awan,The weekly check ins kept me on track and motivated.,5,Social Media,2026-05-27
+35,Noor Javed,Web Development,Rizwan Baig,The internship gave a general overview of the field.,3,LinkedIn,2026-05-29
+36,Rizwan Abbasi,Machine Learning,Iqra Abbasi,The training sessions were well organized and informative.,5,Survey,2026-05-30
+37,Mehak Noor,Content Writing,Noor Javed,The resources provided were extremely useful for learning.,4,Survey,2026-05-31
+38,Kashif Baig,Web Development,Danish Baig,I expected much better guidance during this internship.,1,LinkedIn,2026-05-31
+39,Danish Mirza,Web Development,Mariam Malik,The training material was detailed and easy to follow.,5,Survey,2026-06-01
+40,Sana Chaudhry,UI/UX,Ayesha Abbasi,I received constructive feedback that helped me improve quickly.,5,Social Media,2026-06-02
+41,Laiba Ali,Web Development,Rizwan Khan,Excellent internship experience overall.,5,Social Media,2026-06-03
+42,Imran Khan,Content Writing,Anum Baig,The learning curve was steep but very rewarding.,4,Social Media,2026-06-04
+43,Rabia Siddiqui,Digital Marketing,Danish Baig,I did not feel strongly positive or negative about it.,3,Survey,2026-06-06
+44,Sara Chaudhry,Data Analytics,Ayesha Ahmed,The daily tasks kept me engaged and motivated.,5,Email,2026-06-06
+45,Talha Chaudhry,Digital Marketing,Rizwan Khan,The projects were somewhat repetitive at times.,3,LinkedIn,2026-06-06
+46,Umer Siddiqui,Data Analytics,Ayesha Abbasi,I did not receive any certificate as promised.,1,Survey,2026-06-08
+47,Sara Javed,Digital Marketing,Anum Baig,The overall experience was disappointing.,1,Google Form,2026-06-09
+48,Zain Farooq,UI/UX,Asad Noor,I found the tasks repetitive and unchallenging.,1,Email,2026-06-11
+49,Iqra Chaudhry,Web Development,Bilal Awan,It was a decent experience overall.,3,LinkedIn,2026-06-14
+50,Rizwan Butt,Content Writing,Rizwan Khan,Highly recommend this internship to other students.,5,Google Form,2026-06-17
+51,Sadia Ali,Digital Marketing,Mehak Abbasi,The team was unresponsive to my questions.,2,LinkedIn,2026-06-17
+52,Anum Chaudhry,Digital Marketing,Anum Baig,There was very little feedback given on my work.,1,Social Media,2026-06-18
+53,Mariam Iqbal,Data Analytics,Rizwan Khan,Great teamwork and collaborative environment.,4,Survey,2026-06-18
+54,Mehak Awan,Data Analytics,Sara Rana,The training material was outdated and confusing.,2,Social Media,2026-06-18
+55,Sara Abbasi,Content Writing,Mehak Abbasi,I gained hands-on experience that boosted my confidence.,4,Email,2026-06-18
+56,Bilal Raza,Data Analytics,Ayesha Abbasi,The final project presentation boosted my confidence a lot.,4,Google Form,2026-06-21
+57,Anum Butt,Content Writing,Usman Khan,I would definitely apply again if given the chance.,4,Survey,2026-06-21
+58,Fatima Awan,Digital Marketing,Danish Baig,My communication skills improved significantly during this internship.,4,Email,2026-06-22
+59,Mariam Chaudhry,Content Writing,Mariam Malik,I did not learn as much as I had hoped.,1,Survey,2026-06-23
+60,Asad Sheikh,Data Analytics,Noor Javed,Deadlines were unrealistic given the resources provided.,2,Survey,2026-06-23
+61,Umer Baig,Machine Learning,Iqra Abbasi,It was a reasonable introduction to the industry.,3,Survey,2026-06-24
+62,Iqra Ali,Data Analytics,Iqra Abbasi,The overall structure of the program was very professional.,5,LinkedIn,2026-06-24
+63,Faizan Siddiqui,Machine Learning,Noor Javed,The internship helped me discover my strengths.,5,Google Form,2026-06-24
+64,Nida Malik,Machine Learning,Anum Baig,The tasks assigned were practical and relevant to industry needs.,5,Social Media,2026-06-24
+65,Asad Khan,Digital Marketing,Sara Rana,The workload was manageable most of the time.,3,LinkedIn,2026-06-25
+66,Kashif Ali,UI/UX,Asad Noor,I would not recommend this internship to others.,2,Google Form,2026-06-25
+67,Zara Javed,Machine Learning,Danish Baig,The sessions were boring and not engaging at all.,1,LinkedIn,2026-06-25
+68,Danish Rana,Digital Marketing,Ayesha Abbasi,The overall structure was okay but could improve.,3,Email,2026-06-26
+69,Ali Hussain,Machine Learning,Iqra Abbasi,The internship was okay overall.,3,Google Form,2026-06-26
+70,Mehwish Hussain,UI/UX,Ayesha Abbasi,The training lacked practical examples.,2,Social Media,2026-06-27
+71,Hira Baig,Web Development,Ayesha Ahmed,The support from senior team members was outstanding.,4,LinkedIn,2026-06-28
+72,Kashif Khan,UI/UX,Asad Noor,I felt neglected during most of the internship.,2,Google Form,2026-06-29
+73,Waleed Siddiqui,Content Writing,Iqra Abbasi,I made lasting professional connections during this internship.,5,Social Media,2026-07-02
+74,Sana Butt,UI/UX,Sara Rana,The tasks were simple and did not require much effort.,3,Email,2026-07-03
+75,Waqas Chaudhry,Web Development,Mehak Abbasi,I feel much more confident in my skills after this internship.,4,Social Media,2026-07-03
+76,Sana Hussain,Digital Marketing,Asad Noor,The mentor sessions were held as scheduled.,3,LinkedIn,2026-07-04
+77,Zain Awan,UI/UX,Noor Javed,I am thankful for such a well planned internship program.,4,Survey,2026-07-05
+78,Iqra Iqbal,UI/UX,Iqra Abbasi,The work environment was positive and motivating.,5,Email,2026-07-06
+79,Sara Qureshi,UI/UX,Bilal Awan,The mentor's response was slow most of the time.,1,LinkedIn,2026-07-06
+80,Mehwish Ali,Digital Marketing,Rabia Awan,The internship felt like a waste of time overall.,1,LinkedIn,2026-07-08
+81,Hira Ahmed,Data Analytics,Danish Baig,I learned how to manage deadlines effectively during this internship.,4,Survey,2026-07-08
+82,Sadia Khan,Web Development,Bilal Awan,The workload was too heavy without proper support.,2,Email,2026-07-08
+83,Sadia Abbasi,Machine Learning,Bilal Awan,I am grateful for the opportunities provided during this internship.,5,Google Form,2026-07-09
+84,Noor Baig,Web Development,Iqra Abbasi,The projects allowed me to apply my academic knowledge practically.,5,Google Form,2026-07-09
+85,Noor Javed,Machine Learning,Mariam Malik,This was one of the best learning experiences of my career.,5,Google Form,2026-07-09
+86,Hassan Farooq,UI/UX,Mehak Abbasi,I felt valued and respected as a team member.,4,Email,2026-07-10
+87,Hamza Butt,Digital Marketing,Rizwan Baig,I learned valuable technical skills during this program.,5,Survey,2026-07-10
+88,Faizan Ali,UI/UX,Mariam Malik,There were too many deadlines with very little support.,2,Social Media,2026-07-11
+89,Mariam Raza,Content Writing,Noor Javed,Communication was poor throughout the internship.,2,Survey,2026-07-11
+90,Hamza Hussain,UI/UX,Bilal Awan,My mentor gave me clear guidance at every step.,4,Google Form,2026-07-12
+91,Fatima Javed,Digital Marketing,Usman Khan,The mentor rarely checked in on my progress.,2,Social Media,2026-07-12
+92,Iqra Rana,Content Writing,Ayesha Ahmed,It was an average experience with some good moments.,3,Social Media,2026-07-12
+93,Bilal Noor,Data Analytics,Mariam Malik,The team culture was friendly and encouraging.,4,Email,2026-07-16
+94,Nida Raza,Digital Marketing,Bilal Awan,The pace of the internship was moderate.,3,Survey,2026-07-16
+95,Asad Sheikh,Content Writing,Rabia Awan,The internship was fairly standard compared to others.,3,Email,2026-07-17
+96,Iqra Malik,Data Analytics,Usman Khan,Communication was adequate but not exceptional.,3,Email,2026-07-18
+97,Komal Siddiqui,Content Writing,Bilal Awan,The projects were challenging and helped me grow professionally.,4,Social Media,2026-07-21
+98,Nida Mirza,Machine Learning,Noor Javed,The management was very supportive and approachable.,4,LinkedIn,2026-07-21
+99,Sara Butt,Digital Marketing,Anum Baig,This internship helped me understand industry best practices.,5,Social Media,2026-07-23
+100,Bilal Qureshi,Data Analytics,Rabia Awan,The mentors explained everything patiently and clearly.,4,Google Form,2026-07-24
